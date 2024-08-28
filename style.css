@@ -5,13 +5,13 @@
     font-family: gilroy;
     color: #fff;
     -webkit-user-select: none;
-    /* Safari */                      /*for removing slider */
+    /* Safari */                      
     -ms-user-select: none;
     /* IE 10 and IE 11 */
     user-select: none;
     /* Standard syntax */
 }
-::-webkit-scrollbar {
+::-webkit-scrollbar {        /*for removing slider */
     display: none;
 }
 html,
