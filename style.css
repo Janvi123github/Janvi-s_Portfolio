@@ -819,7 +819,7 @@ summary::marker {
 #page6 {
     height: 92vh;
     width: 100%;
-    position: absolute;
+    /* position: absolute; */
     /* background-color: #111; */
     background-color:#8aabff;
     padding: 5vh 5vw;
