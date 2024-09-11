@@ -1,6 +1,6 @@
 Created a well-structured portfolio to showcasing my skills, experience, and qualifications effectively.
 
-[Janvi's Portfolio](https://janvihatwarportfolio.netlify.app/)
+[Janvi's Portfolio](https://janvihatwar.github.io/)
 # Janvi's Portfolio
 
 Hi, I'm Janvi Hatwar, a passionate frontend developer dedicated to make user-friendly web experiences. This portfolio showcases my journey in web development, highlighting the skills I've, the projects I've completed, and the experience I've gained along the way. Whether you're here to explore my work, learn more about my background, I hope this platform gives you a clear sense of who I am and what I do.
