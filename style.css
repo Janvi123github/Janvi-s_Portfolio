@@ -866,7 +866,7 @@ summary::marker {
     border: 2px solid #3D52A0;
     width: 10vw;
     height: 2.5vw;
-    border-radius: 100px;
+    border-radius: 100px;text-decoration: none;
     margin-bottom: 1%;
     display: flex;
     align-items: center;
@@ -874,7 +874,6 @@ summary::marker {
 }
 
 #blue-btn h4 {
-    position: absolute;
     text-transform: uppercase;
     font-weight: 600;
     font-size: 0.85vw;
